@@ -4,4 +4,5 @@ Um jogo de tabuleiro que tem mecânicas de jogo da velha e batalha naval em que 
 
 OBS: 
 > o jogo necessita da biblioteca externa TABULATE para conseguir rodar.
+
 > o jogo ainda apresenta problemas que estão descritos em ISSUES.
