@@ -1,3 +1,0 @@
-jogo não salva o progresso
-problemas na hora de usar o especial, possivelmente números usados anteriormente e que foram apagados com o especial não podem ser usados novamente
-problema na verificação de vitória usando matrizes com mais índices para navegação
